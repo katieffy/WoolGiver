@@ -1,0 +1,7 @@
+name: WoolGiver
+main: com.bukkit.wesnc.WoolGiver.WoolGiver
+version: 1.0
+commands:
+  wool:
+    description:
+    usage:
