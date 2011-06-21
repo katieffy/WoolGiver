@@ -1,4 +1,4 @@
-package com.bukkit.wesnc.WoolGiver;
+package com.wesnc.WoolGiver;
 
 import java.util.HashMap;
 import java.util.logging.Level;

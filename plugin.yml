@@ -1,5 +1,5 @@
 name: WoolGiver
-main: com.bukkit.wesnc.WoolGiver.WoolGiver
+main: com.wesnc.WoolGiver.WoolGiver
 version: 1.0
 commands:
   wool:
